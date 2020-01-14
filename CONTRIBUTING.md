@@ -30,7 +30,19 @@ See these [guidelines](CONTRIBUTING_TECHNIQUE.md).
 
 ### Other Contributions
 
-Please wait until we finish this section.
+You are welcome to contribute to issues that are labeled as ["contributions
+welcome"](https://github.com/tensorflow/model-optimization/issues?q=is%3Aissue+is%3Aopen+label%3A%22contributions+welcome%22).
+These are issues that TFMOT has considered critical enough to fix (e.g.
+significant impact on user experience) but has not had the time to fix. TFMOT also has time to provide basic guidance, which also means the number of issues is intentionally kept small.
+
+Unless a ["good first
+issue" label is attached](https://github.com/tensorflow/model-optimization/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22contributions+welcome%22+label%3A%22good+first+issue%22+), issues will likely require the contributor to individually develop some understanding of the design (e.g. either of tf.keras
+or of the technique itself).
+
+If you want to pick up an issue, please comment and wait for a response from TFMOT
+(to ensure the issue is still important). TFMOT may also provide
+additional details. If you need code pointers, feel free to ask in your comment.
+
 
 ## Code reviews
 
